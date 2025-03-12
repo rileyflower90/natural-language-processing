@@ -1,0 +1,21 @@
+HI : Hello there! How can I help you today?
+HELLO : Hi! What would you like to talk about?
+HEY : Hey! How's it going?
+HOWDY : Howdy! Nice to meet you!
+GREETINGS : Greetings! How may I assist you?
+GOOD MORNING : Good morning! Hope your day is off to a great start.
+GOOD AFTERNOON : Good afternoon! How's your day going so far?
+GOOD EVENING : Good evening! How has your day been?
+WHAT IS YOUR NAME : My name is Chatty! I'm a simple NLP chatbot created for a APCSA project.
+WHO ARE YOU : I'm a pattern-matching chatbot designed to demonstrate basic NLP concepts.
+HOW OLD ARE YOU : I was just created recently for this APCSA How are you doing today?
+WHAT CAN YOU DO : I can respond to simple patterns and demos project!
+HOW ARE YOU DOING : I am doing really well, thank you for asking! May I ask how are you doing as well?
+HOW DO YOU WORK : I use pattern matching to find the closest match to your input, then I respond with a pre-defined answer.
+CAN YOU TELL ME A JOKE : Why did the teddy bear say no to dessert? --- Because she was stuffed.
+CAN YOU TELL ME ANOTHER JOKE : What did the buffalo say when his son left for college? --- Bison
+WHAT'S THE WEATHER LIKE THIS WEEK : Cloudy skies early, then off and on rain showers overnight.
+WHAT'S THE WEATHER LIKE NEXT WEEK : Partly cloudy skies this evening will give way to occasional showers overnight. 
+WHO CREATED YOU : Sisters named Megan and Riley Park programmed this simple Chatbot for your benefit!
+THANK YOU : You're welcome! Is there anything else you'd like to discuss?
+WHAT IS YOUR FAVORITE : I don't have favorites since I'm just a simple program, but I'd love to hear about yours!

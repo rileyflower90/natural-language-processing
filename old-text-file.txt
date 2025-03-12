@@ -1,0 +1,52 @@
+HI : Hello there! How can I help you today?
+HELLO : Hi! What would you like to talk about?
+HEY : Hey! How's it going?
+HOWDY : Howdy! Nice to meet you!
+GREETINGS : Greetings! How may I assist you?
+GOOD MORNING : Good morning! Hope your day is off to a great start.
+GOOD AFTERNOON : Good afternoon! How's your day going so far?
+GOOD EVENING : Good evening! How has your day been?
+WHAT IS YOUR NAME : I'm a simple NLP chatbot created for a APCSA project.
+WHO ARE YOU : I'm a pattern-matching chatbot designed to demonstrate basic NLP concepts.
+HOW OLD ARE YOU : I was just created recently for this APCSA project!
+WHAT CAN YOU DO : I can respond to simple patterns and demonstrate basic natural language processing techniques.
+HOW DO YOU WORK : I use pattern matching to find the closest match to your input, then I respond with a pre-defined answer.
+* JAVA * : Java is an object-oriented programming language used in APCSA. What would you like to know about it?
+* PROGRAMMING * : Programming is the process of creating instructions for computers to follow. It's a key skill in computer science!
+* CODE * : Coding is fun! Are you working on a specific project right now?
+* ALGORITHM * : Algorithms are step-by-step procedures for solving problems. They're at the heart of computer science.
+* DEBUG * : Debugging is an important skill! Remember to check your logic and print statements to track down issues.
+* CLASS * JAVA * : Classes in Java are blueprints for objects that contain attributes and methods.
+* METHOD * JAVA * : Methods in Java are functions that perform specific tasks and are defined within classes.
+* OBJECT * JAVA * : Objects in Java are instances of classes that contain data and methods to manipulate that data.
+* NLP * : Natural Language Processing is about teaching computers to understand human language. It's a fascinating field!
+* SENTIMENT ANALYSIS * : Sentiment analysis is the process of determining whether text expresses positive, negative, or neutral emotions.
+* TOKENIZATION * : Tokenization is the process of breaking text into tokens, which could be words, phrases, or other elements.
+* STOP WORDS * : Stop words are common words (like "the", "and", "of") that are often filtered out in NLP processing.
+* STEMMING * : Stemming is the process of reducing words to their root form, like converting "running" to "run".
+* LEMMATIZATION * : Lemmatization is similar to stemming but considers the context and converts words to their dictionary form.
+* POS TAGGING * : Part-of-speech tagging is the process of marking up words in text according to their part of speech.
+* NAMED ENTITY * : Named Entity Recognition identifies proper nouns like people, organizations, and locations in text.
+HOW ARE YOU : I'm functioning well, thanks for asking! How about you?
+* WEATHER * : The weather is a fascinating subject for humans, though I don't experience it myself.
+* FAVORITE * : I don't have favorites since I'm just a simple program, but I'd love to hear about yours!
+* THANKS * : You're welcome! Let me know if there's anything else I can help with.
+* THANK YOU * : You're welcome! Is there anything else you'd like to discuss?
+* GOODBYE * : Goodbye! It was nice chatting with you.
+* BYE * : Bye! Feel free to come back if you have more questions.
+* HELP * : I can answer questions about NLP concepts, Java programming, or just chat. What would you like to know?
+* PROJECT * : For your NLP project, you might want to implement pattern matching, sentiment analysis, or tokenization. What are you focusing on?
+* EXAMPLE * : Here's an example of pattern matching: when you type "hello", I recognize it as a greeting and respond appropriately.
+* ASSIGNMENT * : This assignment helps you learn about NLP concepts while applying your Java programming skills.
+* CONFUSED * : It's okay to be confused! NLP can be challenging. Which part are you struggling with?
+* : I'm not sure I understand. Could you rephrase that?
+*?* : That's an interesting question. Let me think about that...
+*!* : I see you're enthusiastic about that!
+* LEARN * NLP * : To learn NLP, start with basic concepts like tokenization, stop word removal, and stemming.
+* STEPS * NLP * : Basic NLP steps include: 1) Tokenization 2) Normalization 3) Stop word removal 4) Stemming/Lemmatization 5) Analysis
+* DIFFICULT * NLP * : One of the most challenging aspects of NLP is understanding context and ambiguity in human language.
+* APPLICATIONS * NLP * : NLP is used in virtual assistants, translation services, sentiment analysis, and content recommendation systems.
+* START * PROJECT * : To start your NLP project, first decide which techniques you want to implement, then plan your data structures.
+* IMPROVE * PROJECT * : To improve your project, consider adding more patterns, implementing more advanced NLP techniques, or creating a better UI.
+* PRESENT * PROJECT * : When presenting your project, demonstrate how it processes real text examples and highlight the NLP concepts you implemented.
+* GRADE * PROJECT * : Focus on showing your understanding of both Java programming concepts and NLP principles for a good grade.
